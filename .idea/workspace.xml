@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6b973cb-5658-4eb3-98a4-e8f74ea57765" name="Changes" comment="Домашнее задание, урок 7" />
+    <list default="true" id="d6b973cb-5658-4eb3-98a4-e8f74ea57765" name="Changes" comment="Домашнее задание, урок 1">
+      <change beforePath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Participant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Participant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Treadmill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Treadmill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Wall.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="homeWorkLessonSeven" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -183,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654253659818</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Домашнее задание, урок 1">
+      <created>1655826761091</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655826761091</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,11 +214,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Домашнее задание, урок 1" />
     <MESSAGE value="Домашнее задание, урок 2" />
     <MESSAGE value="Домашнее задание, урок 5 (ООП)" />
     <MESSAGE value="Домашнее задание, урок 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание, урок 6" />
+    <MESSAGE value="Домашнее задание, урок 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание, урок 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

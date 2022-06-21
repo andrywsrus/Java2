@@ -1,5 +1,4 @@
 package lvl2.lesson1;
-
 public class Robot extends Participant {
 
     public Robot(String name, int maxRun, int maxJump) {
@@ -21,3 +20,4 @@ public class Robot extends Participant {
         else System.out.println("Робот " + getName() + " не смог перепрыгнуть стену высотой " + wall.getHeight() + " метра");
     }
 }
+
