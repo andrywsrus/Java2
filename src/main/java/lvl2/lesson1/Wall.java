@@ -1,5 +1,4 @@
 package lvl2.lesson1;
-
 public class Wall {
     private int Height;
 
@@ -15,3 +14,4 @@ public class Wall {
         Height = height;
     }
 }
+

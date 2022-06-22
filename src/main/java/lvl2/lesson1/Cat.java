@@ -1,6 +1,5 @@
 package lvl2.lesson1;
 
-
 public class Cat extends Participant {
 
     public Cat(String name, int maxRange, int maxJump) {
@@ -22,3 +21,4 @@ public class Cat extends Participant {
         else System.out.println("Кот " + getName() + " не смог перепрыгнуть стену " + wall.getHeight());
     }
 }
+

@@ -21,3 +21,4 @@ public class Human extends Participant {
         else System.out.println("Человек " + getName() + " не смог перепрыгнуть стену ");
     }
 }
+

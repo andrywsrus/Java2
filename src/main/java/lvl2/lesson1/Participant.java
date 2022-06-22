@@ -1,5 +1,4 @@
 package lvl2.lesson1;
-
 public abstract class Participant {
     private String name;
     private int maxRun;
@@ -25,3 +24,4 @@ public abstract class Participant {
     public abstract void runTreadmill(Treadmill treadmill);
     public abstract void jumpWall(Wall wall);
 }
+
