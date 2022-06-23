@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6b973cb-5658-4eb3-98a4-e8f74ea57765" name="Changes" comment="Домашнее задание, урок 1">
-      <change beforePath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Participant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Participant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Robot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Treadmill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Treadmill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lvl2/lesson1/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lvl2/lesson2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lvl2/lesson2/MyArrayDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lvl2/lesson2/MyArraySizeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +58,13 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="lvl2.lesson2" />
       <recent name="lvl2.lesson1" />
       <recent name="lvl2lesson1.lvl2hw1" />
     </key>
@@ -75,7 +75,7 @@
       <recent name="lvl2.lesson1.lesson1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lvl2.lesson1.Main">
+  <component name="RunManager" selected="Application.lvl2.lesson2.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lvl1.homeWorkLessonSix.Main" />
       <module name="Java2" />
@@ -128,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lvl2lesson1.part1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lvl2lesson1.part1.Main" />
+    <configuration name="lvl2.lesson2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lvl2.lesson2.Main" />
       <module name="Java2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lvl2lesson1.part1.*" />
+          <option name="PATTERN" value="lvl2.lesson2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lvl2.lesson2.Main" />
         <item itemvalue="Application.lvl2.lesson1.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.homeWorkLessonSix.Main" />
         <item itemvalue="Application.lvl2.lesson1.lesson1.Main" />
-        <item itemvalue="Application.lvl2lesson1.part1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655826761091</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Домашнее задание, урок 1">
+      <created>1655827154361</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655827154361</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
