@@ -21,5 +21,8 @@
     <file url="file://$PROJECT_DIR$/src/main/java/lvl2/lesson1/Human.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/lvl2/lesson1/Main.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/lvl2/lesson2/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lvl2/lesson3/ListUniqueWord.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lvl2/lesson3/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lvl2/lesson3/PhoneBook.java" charset="UTF-8" />
   </component>
 </project>
